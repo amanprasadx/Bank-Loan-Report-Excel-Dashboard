@@ -73,14 +73,13 @@ Compared applications across purposes such as credit cards, debt consolidation, 
 Analyzed employment length and home ownership categories.
 ### Loan Terms
 Compared loan applications across different repayment terms.
----
 ## 📷 Dashboard Preview
 ### Summary
-![Bank Loan Summary](screenshots/summary.png)
+![Bank Loan Summary](summary.png)
 ### Overview
-![Bank Loan Overview](screenshots/overview.png)
+![Bank Loan Overview](overview.png)
 ### Details
-![Bank Loan Details](screenshots/details.png)
+![Bank Loan Details](details.png)
 ## 📁 Project Structure
 ```text
 bank-loan-data-analysis/
